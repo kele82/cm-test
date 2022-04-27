@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter aj bas da vidimo da li radi...'),
+      home: const MyHomePage(title: 'Pedaja i Milos prezentacija...'),
     );
   }
 }
